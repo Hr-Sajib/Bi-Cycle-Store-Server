@@ -6,8 +6,11 @@
 ## **Project Overview**
 The **Bicycle Garden Server** is a comprehensive backend system designed to manage bicycle store operations. With this server, users can manage bicycle products, process orders, and handle inventory with ease. The server includes features like product management, order processing, stock adjustments, and revenue calculation to track total sales. Built using **Node.js**, **Express.js**, and **MongoDB**, this server provides a robust and scalable solution for bicycle store management.
 
-## **Live URL**
+## **Server Live URL**
 [https://bi-cycle-store-server-one.vercel.app](https://bi-cycle-store-server-one.vercel.app)
+
+✅ Live Site: <https://bicycle-store-client-one.vercel.app>
+
 
 ## **Features**
 ### **Product Management**
